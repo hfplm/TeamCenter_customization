@@ -5,8 +5,6 @@ int ITK_user_main(int argc, char* argv[]) {
 	char* u = ITK_ask_cli_argument("-u=");
 	char* p = ITK_ask_cli_argument("-p=");
 	char* g = ITK_ask_cli_argument("-g=");
-	char* file = ITK_ask_cli_argument("-file=");
-	char* folderName = ITK_ask_cli_argument("-folderName=");
 
 
 	tag_t item, rev;
