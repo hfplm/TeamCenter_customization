@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "itk_header.h": "c",
+        "stdio.h": "c"
+    }
+}
